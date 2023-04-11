@@ -1,0 +1,185 @@
+:root {
+	--meu-verde: #258375;
+	--rosa-claro: #f9dbdd;
+  }
+
+*{
+    margin: 0px; 
+    padding: 0px;
+}
+
+/* fontes */
+@font-face {
+    font-family: 'Recoleta';
+    src: url('../fonts/recoleta/Recoleta-Regular.woff');
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    src: url('../fonts/cocogoose/CocogooseNarrow-Semilight.woff');
+}
+
+.recoleta {
+	font-family: Recoleta;
+}
+
+/* configurações navbar */
+nav{
+	font-family: 'Recoleta', sans-serif;
+	background-color: var(--rosa-claro);
+}
+
+.w-custom {
+	width: 70%;
+}
+
+.nav-link{
+	color: var(--meu-verde);
+	text-decoration: none;
+}
+
+.nav-link:hover{
+	color: #31b4a0;
+}
+
+.logo-navbar {
+	width: 210px;
+}
+
+@media (max-width: 576px) {
+	.logo-navbar {
+		width: 150px;
+	}
+}
+
+/* main dashboard */
+p {
+	text-align: justify;
+	font-size: 15px;
+}
+
+.branco{
+	font-family: Cocogoose;
+	color: var(--meu-verde);
+}
+
+.rosa-claro{
+	font-family: Cocogoose;
+	color: var(--meu-verde);
+	background-color: var(--rosa-claro);	
+}
+
+.rosa-logo{
+	font-family: Cocogoose;
+	color: var(--meu-verde);
+	background-image: url("../img/fofinho.png");
+	background-repeat: repeat;
+	background-size: 100px 100px; /* tamanho da imagem de fundo */
+}
+
+.content{
+	display: flex;
+  	justify-content: center; /* centraliza horizontalmente */
+  	align-items: center; /* centraliza verticalmente */
+	width: 70%;
+	margin: 0 auto;
+}
+
+.p-custom{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.benefits{
+	font-size: 10px;
+}
+
+@media (max-width: 1200px) {
+	.content {
+		width: 80%;
+	}
+
+	.w-custom {
+		width: 80%;
+	}
+
+	.space{
+		padding-top: 20px;
+	}
+
+	.img-custom{
+		width: 70%;
+		display: block;
+  		margin: auto;
+	}
+}
+
+@media (max-width: 640px) {
+	.content {
+		width: 90%;
+	}
+
+	.w-custom {
+		width: 90%;
+	}
+
+	p {
+		font-size: 12px;
+	}
+
+	.btn-verde{
+		display: block;
+		width: 100%;
+	}
+
+	.img-custom{
+		width: 100%;
+		display: block;
+  		margin: auto;
+	}
+}
+
+.btn-verde{
+	color: var(--rosa-claro);
+  	background-color: var(--meu-verde);
+  	border-color: var(--meu-verde);
+}
+
+.btn-verde:hover{
+	color: #fab3b8;
+}
+
+.div-answer {
+	color: var(--meu-verde);
+	margin: 0 auto;
+	justify-content: center; /* centraliza horizontalmente */
+  	align-items: center; /* centraliza verticalmente */
+}
+
+.div-answer p{
+	font-size: 14px;
+}
+
+.btn-drop{
+	width: 100%;
+}
+
+.div-drop {
+	display: none;
+	/* Estilos adicionais para a div, se necessário */
+  }
+
+.card-href{
+	text-decoration: none; 
+	color: var(--meu-verde);
+}
+
+.card-href:hover{
+	color: #064b40;
+}
+
+a.btn-call{
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
