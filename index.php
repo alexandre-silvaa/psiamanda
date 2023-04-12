@@ -1,1 +1,1 @@
-<?php require 'views/layouts/template.php'; ?>
+<?php include('views/layouts/template.php');?>

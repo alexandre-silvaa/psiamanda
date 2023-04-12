@@ -162,6 +162,9 @@ p {
 
 .btn-drop{
 	width: 100%;
+	color: var(--meu-verde);
+  	background-color: var(--rosa-claro);
+  	border-color: var(--rosa-claro);
 }
 
 .div-drop {

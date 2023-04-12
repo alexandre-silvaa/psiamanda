@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg">
   <div class="container-fluid w-custom">
     <a class="navbar-brand" href="#">
-      <img src="../../resources/img/logo01.png" class="logo-navbar" alt="Amanda Gomes - Psicanalista">
+      <img src="resources/img/logo01.png" class="logo-navbar" alt="Amanda Gomes - Psicanalista">
     </a>
     <button class="navbar-toggler btn-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon icon-toggle"><i class="fa-solid fa-bars" style="color:#258375;"></i></i></span>

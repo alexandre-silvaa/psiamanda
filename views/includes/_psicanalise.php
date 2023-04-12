@@ -14,7 +14,7 @@
             </p>  
         </div>
         <div class="col-12 col-lg-6">
-            <img class="img-fluid" src="../../resources/img/psivetor.png" alt="" style="border-radius: 20%;">
+            <img class="img-fluid" src="resources/img/psivetor.png" alt="" style="border-radius: 20%;">
         </div>
     </div>
 </section>
