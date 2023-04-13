@@ -27,7 +27,6 @@
 
 			<?php require 'views/includes/_introduction.php'; ?>
 			<?php require 'views/includes/_psicanalise.php'; ?>
-			<?php require 'views/includes/_call.php'; ?>
 			<?php require 'views/includes/_about.php'; ?>
 			<?php require 'views/includes/_help-solve.php'; ?>
 			<?php require 'views/includes/_questions.php'; ?>

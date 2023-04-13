@@ -12,7 +12,7 @@
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, nihil. Earum saepe omnis, harum laboriosam vero perspiciatis ut commodi nostrum laudantium ex corrupti eius officia, sapiente rerum dolores beatae aut!
             </p>
 
-            <a href="#" class="btn btn-verde"><i class="fa-brands fa-whatsapp fa-xl" style="color: #fbe9ec;"></i> Agende sua consulta</a>
+            <a href="api/whatsapp.php" target="_blank" class="btn btn-verde"><i class="fa-brands fa-whatsapp fa-xl icon-wpp"></i> Agende sua consulta</a>
         </div>
     </div>
 </section>

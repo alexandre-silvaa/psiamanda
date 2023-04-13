@@ -16,5 +16,14 @@
         <div class="col-12 col-lg-6">
             <img class="img-fluid" src="resources/img/psivetor.png" alt="" style="border-radius: 20%;">
         </div>
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</h4>
+                    <a href="api/whatsapp.php" target="_blank" class="btn btn-verde btn-call"><i class="fa-brands fa-whatsapp fa-xl icon-wpp-call"></i> Agende sua consulta</a>
+                    <a href="https://www.instagram.com/psiamandagomes_/" target="_blank" class="btn btn-verde btn-call"><i class="fa-brands fa-instagram fa-xl icon-wpp-call"></i> @psiamandagomes_</a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
