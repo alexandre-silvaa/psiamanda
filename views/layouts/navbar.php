@@ -4,7 +4,7 @@
       <img src="resources/img/logo01.png" class="logo-navbar" alt="Amanda Gomes - Psicanalista">
     </a>
     <button class="navbar-toggler btn-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon icon-toggle"><i class="fa-solid fa-bars" style="color:#258375;"></i></i></span>
+      <span class="navbar-toggler-icon icon-toggle"><i class="fa-solid fa-bars" style="color:#258375;"></i></span>
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">

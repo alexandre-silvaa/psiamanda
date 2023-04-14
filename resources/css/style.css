@@ -38,6 +38,10 @@ nav{
 	text-decoration: none;
 }
 
+a.nav-link{
+	color: var(--meu-verde);
+}
+
 .nav-link:hover{
 	color: #31b4a0;
 }
@@ -90,6 +94,18 @@ p {
 	padding-bottom: 25px;
 }
 
+.p-custom-alert{
+	padding-top: 25px;
+}
+
+.alert-small{
+	font-size: 12px;
+}
+
+.alert-title{
+	font-size: 17px;
+}
+
 /********************************* help-to-solve *********************************/
 
 .benefits{
@@ -119,9 +135,26 @@ p {
 	color: #064b40;
 }
 
+.btn-contato:hover{
+	color: #064b40;
+}
+
 a.btn-call{
 	display: inline-block;
 	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+a.btn-contato{
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-decoration: none;
+	color: var(--meu-verde);
+}
+
+a.card-href{
+	display: inline-block;
 	margin-bottom: 10px;
 }
 
@@ -195,5 +228,13 @@ a.btn-call{
 		width: 100%;
 		display: block;
   		margin: auto;
+	}
+
+	.alert-small{
+		font-size: 10px;
+	}
+
+	.alert-title{
+		font-size: 15px;
 	}
 }
