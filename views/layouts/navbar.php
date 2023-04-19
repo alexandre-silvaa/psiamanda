@@ -9,16 +9,19 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Home</a>
+          <a class="nav-link" href="#home">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Sobre</a>
+          <a class="nav-link" href="#psicanalise">Psicanálise</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Serviços</a>
+          <a class="nav-link" href="#about">Sobre Mim</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contatos</a>
+          <a class="nav-link" href="#benefits">Benefícios</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contatos">Contatos</a>
         </li>
       </ul>
     </div>

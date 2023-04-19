@@ -1,4 +1,4 @@
-<section class="branco p-custom">
+<section class="branco p-custom" id="about">
     <div class="row content">
         <div class="col-12 col-lg-6">
             <img class="img-fluid" src="resources/img/psicologo.jpg" alt="" style="border-radius: 20%;">

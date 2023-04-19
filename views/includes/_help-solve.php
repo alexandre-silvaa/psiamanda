@@ -1,4 +1,4 @@
-<section class="rosa-claro p-custom">
+<section class="rosa-claro p-custom" id="benefits">
     <div class="row content">
         <h3 class="recoleta text-center"><b>Um psicanalista pode ajudar você a resolver esses problemas</b></h3>
         <div class="col-12 col-md-6 mt-3">

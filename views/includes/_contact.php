@@ -1,4 +1,4 @@
-<section class="rosa-logo p-custom">
+<section class="rosa-logo p-custom" id="contatos">
     <div class="row content">
         <div class="card">
             <div class="col-12">
