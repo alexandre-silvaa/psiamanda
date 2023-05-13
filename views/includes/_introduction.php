@@ -9,7 +9,9 @@
             <h2 class="recoleta"><b>Como a terapia psicanalítica pode transformar sua vida</b></h2>
 
             <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, nihil. Earum saepe omnis, harum laboriosam vero perspiciatis ut commodi nostrum laudantium ex corrupti eius officia, sapiente rerum dolores beatae aut!
+                A terapia psicanalítica foi criada por Sigmund Freud e tem o objetivo de explorar o inconsciente, ou seja, descobrir possíveis, medos, anseios, desejos ou traumas que ainda não são conhecidos ou não "vieram a tona" e por isso podem afetar negativamente sua vida.  
+                <br>
+                Visto isso, a terapia psicanalítica pode transformar diversos âmbitos da sua vida, como na questão do autoconhecimento, autoconsciência, alivio da ansiedade e depressão, inteligência emocional, entre outros. 
             </p>
 
             <a href="api/whatsapp.php" target="_blank" class="btn btn-verde"><i class="fa-brands fa-whatsapp fa-xl icon-wpp"></i> Agende sua consulta</a>
